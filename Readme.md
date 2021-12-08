@@ -5,6 +5,8 @@
 This is the udacity robotic nanodegree project that aims a robot than can autonomously map an environment and navigate to pick up and drop off virtual objects. The main objectives of projects are:
 
 * Design robot's environment with the Building Editor in Gazebo. In this project, V shape model is used.
+![model](./img/img2.png)
+
 * Operate the robot and manually test SLAM.
 * Use the ROS navigation stack and manually command the robot using the 2D Nav Goal arrow in rviz to move to 2 different desired positions and orientations.
 * Write a **pick_objects** node that commands the robot to move to the desired pickup and drop off zones. This objective done by using rectangular marker
